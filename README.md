@@ -11,3 +11,26 @@ https://youtu.be/5YvKieTfd8s
 ![](img/body.png)
 
 
+## simple example
+
+### Hargdware 
++ Raspberry pi 3, Model B+
+
+### Wiring
+![](img/wiring.png)
+
+### Software Environment
++ Python2.7
++ OpenCV3
+
+### Execution Program
+<pre>
+>> sample_control.py
+</pre>
+
+### How to control
++ key [u][j] ... 1st joint
++ key [i][k] ... 2nd joint
++ key [o][l] ... 3rd joint
+
+
